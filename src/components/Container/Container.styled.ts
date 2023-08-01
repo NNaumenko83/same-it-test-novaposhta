@@ -2,8 +2,9 @@ import { styled } from "styled-components";
 
 export const ContainerStyled = styled.div`
 	margin: 0 auto;
-	padding: 15px 20px;
+	padding: 5px 5px;
 	min-width: 320px;
+	height: 100%;
 	outline: 1px solid green;
 
 	@media screen and (min-width: 320px) {
